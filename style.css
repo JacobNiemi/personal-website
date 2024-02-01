@@ -41,3 +41,13 @@ body {
 h3 {
   display: inline-block;
 }
+.about-img {
+  width: 500px;
+  float: right;
+}
+#about-header {
+  text-align: center;
+}
+p {
+  font-size: 25px;
+}
