@@ -73,3 +73,28 @@ h3 {
 body {
   margin: 0;
 }
+.portfolio-img {
+  width: 500px;
+  float: right;
+}
+#portfolio-header {
+  text-align: center;
+  color: whitesmoke;
+}
+.portfolio-section p {
+  font-size: 25px;
+  color: whitesmoke;
+}
+.portfolio-section {
+  background-color: #2c2a21;
+  border: 3px solid #6ea06d;
+  padding: 50px;
+  margin: 20px;
+  display: block;
+}
+
+.portfolio-title {
+  text-decoration: underline;
+  font-size: 35px;
+  color: #6ea06d;
+}
