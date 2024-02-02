@@ -50,6 +50,11 @@ h3 {
   float: right;
   padding: 20px;
 }
+.about-img-left {
+  width: 500px;
+  float: left;
+  padding: 20px;
+}
 #about-header {
   text-align: center;
   color: whitesmoke;
