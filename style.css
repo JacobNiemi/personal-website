@@ -48,6 +48,7 @@ h3 {
 .about-img {
   width: 500px;
   float: right;
+  padding: 20px;
 }
 #about-header {
   text-align: center;
@@ -76,6 +77,7 @@ body {
 .portfolio-img {
   width: 500px;
   float: right;
+  padding: 20px;
 }
 #portfolio-header {
   text-align: center;
@@ -97,4 +99,9 @@ body {
   text-decoration: underline;
   font-size: 35px;
   color: #6ea06d;
+}
+.portfolio-img-left {
+  width: 500px;
+  float: left;
+  padding: 20px;
 }
