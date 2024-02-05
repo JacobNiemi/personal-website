@@ -27,6 +27,7 @@ body {
 .welcome-msg {
   font-size: 25px;
   color: whitesmoke;
+  text-align: center;
 }
 .statement {
   font-size: 50px;
@@ -109,4 +110,8 @@ body {
   width: 500px;
   float: left;
   padding: 20px;
+}
+#home {
+  background-color: #2c2a21;
+  margin: 20px;
 }
