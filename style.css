@@ -46,7 +46,7 @@ h3 {
   color: whitesmoke;
   font-size: 50px;
 }
-.about-img-left {
+.about-img-left:nth-child(n) {
   width: 425px;
   float: left;
   padding-right: 20px;
