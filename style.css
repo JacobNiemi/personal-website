@@ -2,9 +2,10 @@
   background-color: #588157;
   overflow: hidden;
   font-size: 30px;
+  display: flex;
+  justify-content: space-evenly;
 }
 #navbar a {
-  float: right;
   color: whitesmoke;
   text-decoration: none;
   text-align: center;
@@ -42,9 +43,8 @@ body {
   color: whitesmoke;
 }
 h3 {
-  display: inline-block;
   color: whitesmoke;
-  margin-left: 50px;
+  font-size: 50px;
 }
 .about-img {
   width: 500px;
