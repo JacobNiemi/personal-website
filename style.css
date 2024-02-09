@@ -46,15 +46,15 @@ h3 {
   color: whitesmoke;
   font-size: 50px;
 }
-.about-img {
-  width: 500px;
-  float: right;
-  padding: 20px;
-}
 .about-img-left {
-  width: 500px;
+  width: 425px;
   float: left;
-  padding: 20px;
+  padding-right: 20px;
+}
+.about-img:nth-child(2) {
+  float: right;
+  padding-left: 30px;
+  width: 500px;
 }
 #about-header {
   text-align: center;
@@ -69,9 +69,7 @@ h3 {
   border: 3px solid #6ea06d;
   padding: 50px;
   margin: 20px;
-  display: block;
 }
-
 .about-title {
   text-decoration: underline;
   font-size: 35px;
